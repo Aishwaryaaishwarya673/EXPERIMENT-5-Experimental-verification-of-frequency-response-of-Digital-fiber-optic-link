@@ -5,7 +5,6 @@ Exp 5 Experimental verification of frequency response of Digital fiber optic lin
 ## AIM
 To analyze the relationship between input and received signal of a 600nm fiber optic cable using digital link.
 
----
 
 ## EQUIPMENTS REQUIRED
 - Fiber optic trainer kit ST 2502  
@@ -45,33 +44,26 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ## BLOCK DIAGRAM
 
-*(Insert block diagram here)*
-
----
+<img width="890" height="529" alt="image" src="https://github.com/user-attachments/assets/8f66629d-810c-4fe2-b9bc-8d067809c96b" />
 
 
-## CONNECTION DIAGRAM  
-**Setting up a Digital Link**
 
-*(Insert connection diagram here)*
 
----
 
 ## TABULATION  
 **Transmission through Digital Link**
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
 
----
+<img width="746" height="460" alt="image" src="https://github.com/user-attachments/assets/1fe18fdc-786a-4156-abb1-5610a9454f5c" />
+
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+<img width="1080" height="538" alt="image" src="https://github.com/user-attachments/assets/4852c509-8006-4a65-b5cb-ec3b0354be66" />
 
----
+
+<img width="923" height="1280" alt="image" src="https://github.com/user-attachments/assets/f07e6008-78ea-461e-a3d7-fad99ce62994" />
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+Thus, the frequency response of the digital fiber optic link was successfully verified. The system exhibited a stable response up to its cutoff frequency, beyond which the signal amplitude decreased due to attenuation. The measured bandwidth of the digital fiber optic link is approximately 200 kHz, confirming the expected performance characteristics of digital optical transmission.
